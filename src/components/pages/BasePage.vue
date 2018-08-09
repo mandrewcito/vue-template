@@ -28,6 +28,9 @@ export default {
 }
 </script>
 <style scoped>
+.body-container {
+    overflow-y: scroll;
+}
 .top-container{
     top: 0px;
 }
@@ -35,5 +38,6 @@ export default {
     bottom: 0px;
     position:fixed;
     width: 100%;
+    background-color:white;
 }
 </style>

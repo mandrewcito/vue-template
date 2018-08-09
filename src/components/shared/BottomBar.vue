@@ -3,7 +3,7 @@
         <a href="/" class="nav-link">
           <font-awesome-icon icon="home" size="2x" style="color: grey;"/>
         </a>
-        <a href="#" class="nav-link">
+        <a href="#/list" class="nav-link">
           <font-awesome-icon icon="list" size="2x" style="color: grey;"/>
         </a>
         <a href="#" class="nav-link">
